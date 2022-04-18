@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>data driven demo test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e97b4b20-6cbd-4d4d-86e6-c6bb67972cf4</testCaseGuid>
+   <variable>
+      <defaultValue>'hazim mm'</defaultValue>
+      <description></description>
+      <id>db2672a7-b241-4ce8-a10f-f7a05677406c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
